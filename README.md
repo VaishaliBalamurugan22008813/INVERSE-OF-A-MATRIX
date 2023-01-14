@@ -13,8 +13,11 @@ To write a python program to find the inverse of a matrix
 ## Program:
 
 #Program to find the inverse of a matrix.
+
 #Developed by:VAISHALI BALAMURUGAN
+
 #RegisterNumber:22008813
+
 ```
 import numpy as np
 import numpy as np

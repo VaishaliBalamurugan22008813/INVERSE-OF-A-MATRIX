@@ -13,14 +13,15 @@ To write a python program to find the inverse of a matrix
 ## Program:
 
 #Program to find the inverse of a matrix.
-#Developed by: Srinidhi senthil
-#RegisterNumber:22001408
+#Developed by:VAISHALI BALAMURUGAN
+#RegisterNumber:22008813
+```
 import numpy as np
 import numpy as np
 A=np.array([[2,1,1],[1,1,1],[1,-1,2]])
 inverse=np.linalg.inv(A)
 print(inverse)
-
+```
 ## Output:
 
 ![image](https://user-images.githubusercontent.com/119390134/211967000-29ba9495-7ba7-43da-ba2e-2f35dc19174b.png)
